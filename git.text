@@ -1,0 +1,5 @@
+git init-----new repo
+git add . ------all file addd
+git commit -m"all file add" 
+git push
+
