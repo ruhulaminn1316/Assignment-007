@@ -2,4 +2,9 @@ git init-----new repo
 git add . ------all file addd
 git commit -m"all file add" 
 git push
+git config --global user.name "RUHUL"
+git config --global user.email "ruhul@gmail.com"
+git config --global --list
+
+
 
